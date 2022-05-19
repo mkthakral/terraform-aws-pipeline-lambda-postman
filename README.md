@@ -1,4 +1,4 @@
-# terraform_yaml_json_converter
+# terraform-aws-pipeline-lambda-postman
 This repository can be used to provision infratructure of a Serverless App & its corresponding CI/CD pipeline.
 
 The application source code is assumed to be in different CodeCommit repository
